@@ -1,4 +1,8 @@
 # Questionário Socioeconômico
 Trabalho do Roland
 <br>
-Felipe, Igor, Rafael, Toni e Juliana
+Alunos: Felipe, Igor, Rafael, Toni e Juliana
+
+## Funcionalidades:
+Coletar dados de planilhas com prefixo " _ " para então montar gráficos a partir destes
+
